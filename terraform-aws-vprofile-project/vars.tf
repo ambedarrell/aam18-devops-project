@@ -67,32 +67,32 @@ variable Zone3 {
   default = "us-east-2c"
 }
 
-variable VpcCIDR {
+variable VpcCidr {
   default = "172.21.0.0/16"
 }
 
 
-variable PubSub1CIDR {
+variable PubSub1Cidr {
   default = "172.21.1.0/24"
 }
 
-variable PubSub2CIDR {
+variable PubSub2Cidr {
   default = "172.21.2.0/24"
 }
 
-variable PubSub3CIDR {
+variable PubSub3Cidr {
   default = "172.21.3.0/24"
 }
 
-variable PrivSub1CIDR {
+variable PrivSub1Cidr {
   default = "172.21.4.0/24"
 }
 
-variable PrivSub2CIDR {
+variable PrivSub2Cidr {
   default = "172.21.5.0/24"
 }
 
-variable PrivSub3CIDR {
+variable PrivSub3Cidr {
   default = "172.21.6.0/24"
 }
 
